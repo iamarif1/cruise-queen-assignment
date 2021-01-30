@@ -1,2 +1,2 @@
-# discover-fly-assignment
+# cruise-queen-assignment
 JavaScript Assignment
